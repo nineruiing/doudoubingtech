@@ -1,6 +1,6 @@
 FROM alpine:latest
 
-ENV CONFIG_JSON=none VER=3.46
+ENV CONFIG_JSON=none VER=4.2
 
 
 RUN mkdir -m 777 /v2ray
